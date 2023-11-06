@@ -1,0 +1,222 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@100;400&display=swap');
+
+.log{
+  color: 1E1E1E;
+  text-align: center;
+  padding-right: 40px;
+  padding-top: 20px;
+  font-family: 'Inter';
+  font-style: normal;
+  font-size: 32px;
+  line-height: 39px;
+  
+}
+.parent-div{
+  max-width: 400px;
+  margin: 0 auto;
+  background-color: white;
+}
+.Google{
+  margin-top: 20px;
+  display: flex;
+  text-align: center;
+  background-color: #5985E5;
+  color: white;
+  border-radius: 15px;
+  width: 355px;
+  height: 55px;
+  gap: 15px;
+  align-items: center;
+  justify-content: center;
+ 
+
+  font-family: 'Inter';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 19px;
+}
+
+.Facebook{
+  margin-top: 20px;
+display: flex;
+align-items: center;
+text-align: center;
+width: 353px;
+height: 50px;
+gap: 15px;
+border: 1px solid rgba(30, 30, 30, 0.2);
+border-radius: 15px;
+color: #1e1e1e;
+justify-content: center;
+
+font-size: 16px;
+font-family: 'Inter';
+font-style: normal;
+font-weight: 700px;
+line-height: 19px;
+}
+
+.Twitter{
+  margin-top: 20px;
+  display: flex;
+  align-items:center;
+  text-align: center;
+  border: 1px solid rgba(30, 30, 30, 0.2);
+  border-radius: 15px;
+  gap: 15px;
+  width: 355px;
+  height: 50px;
+  color: #1e1e1e;
+  justify-content: center;
+
+  
+font-family: 'Inter';
+font-style: normal;
+font-weight: 500;
+font-size: 16px;
+line-height: 19px;
+
+}
+
+.or{
+  margin-top: 20px;
+  width: 350px;
+  display: flex;
+  align-items: baseline;
+  text-align: center;
+  justify-items: center;
+  color: rgba(30, 30, 30, 0.2);
+  /* justify-items: baseline; */
+  Font style: Regular
+Font size: 14px
+Line height: 17px
+Line height: 100%
+Align: Left
+Vertical align: Top
+
+}
+.or hr{
+  width: 150px;
+  height: 0px;
+  color: rgba(7, 4, 4, 0.2);
+
+  Font family: Inter
+
+}
+/* span{
+  position: absolute;
+  top: -5px;
+} */
+
+.line {
+  border: 1px solid rgba(30, 30, 30, 0.2);
+  /* height: 0px; */
+}
+.email{
+margin-top: 20px;
+width: 338px;
+height: 40px;
+border:1px solid rgba(30, 30, 30, 0.2);
+color: #1E1E1E;
+border-radius: 15px;
+padding: 4px;
+padding-left: 15px;
+}
+.email input{
+  border: none;
+Font size: 12px
+Line height: 15px
+Line height: 100%
+Align: Left
+Vertical align: Top
+}
+
+
+.Password{
+margin-top: 20px;
+width: 340px;
+height: 40px;
+border: 1px solid rgba(30, 30, 30, 0.2);
+color: #1E1E1E;
+border-radius: 15px;
+padding: 4px;
+padding-left: 15px;
+
+Font family: Inter
+Font style: Regular
+Font size: 12px
+Line height: 15px
+Line height: 100%
+Align: Left
+Vertical align: Top
+}
+.Password input{
+  border: none;
+}
+
+
+.Login{
+  margin-top: 20px;
+  border-radius: 15px;
+  max-width: 360px;
+  height: 45px;
+  background-color:#3792DE;
+  text-align: center;
+
+  Font family: Inter
+  Font style: Regular
+  Font size: 16px
+  Line height: 19px
+  Line height: 100%
+  Align: Left
+  Vertical align: Top
+}
+.Login button{
+/* padding: 10px 165px; */
+border-radius: 15px;
+background-color: transparent;  
+border: none;
+color: bisque;
+padding-top: 15px;
+
+}
+
+
+.Forget{
+  margin-top: 20px;
+text-align: center;
+color: gray;
+padding-bottom: 20px;
+
+Font family: Inter
+Font style: Regular
+Font size: 14px
+Line height: 17px
+Line height: 100%
+Align: Center
+Vertical align: Top
+}
+
+.end{
+  margin-top: 30px;
+  font-family: 'Inter', sans-serif;
+text-align: center;
+  color: rgba(30, 30, 30, 0.4);
+
+Font-family: ; Inter
+font-style:Mixed;
+Font size: 14px
+Line height: 17px
+Line height: 100%
+Align: Center
+Vertical align: Top
+}
+body{
+  background-color:rgb(193, 193, 206)
+}
+
+.parent-div{
+  padding-left: 40px;
+}
